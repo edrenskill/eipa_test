@@ -1,0 +1,1040 @@
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen and (min-width : 320px) and (max-width : 480px) {
+	/** Header **/
+	.social-container {
+		margin: 0 auto;
+		width: 228px;
+	}
+	
+	.organization-title-container {
+		clear: both;
+		float: none;
+		margin: 97px auto 0;
+		text-align: center;
+		width: 100%;
+	}
+	
+	.organization-title-container img {
+		margin-right: 0;
+	}
+	
+	.logo-container {
+		clear: both;
+		float: none;
+		margin: 12px auto 0;
+		width: 30%;
+	}
+	
+	/** Home Page **/
+	.event-title {
+		font-size: 16px;
+	}
+	
+	h3.event-description {
+		font-size: 12px;
+	}
+	
+	.responsive-slider {
+		padding: 15px;
+	}
+	
+	p.event-description {
+		text-align: center !important;
+	}
+	
+	.register-button {
+		text-align: center;
+		width: 72%;
+	}
+	
+	.interpol-logo-container {
+		display: block;
+		width: 100%;
+	}
+	
+	.interpol-logo-container img {
+		display: block;
+		float: none;
+		margin: 0 auto;
+	}
+	
+	.dubai-customs-logo-container {
+		width: 100%;
+	}
+	
+	.dubai-customs-logo-container img {
+		display: block;
+		float: none;
+		margin: 20px auto 0;
+	}
+	
+	/** Footer **/
+	.footer-links ul li {
+		padding: 0 11px;
+	}
+	
+	.copyright {
+		display: block;
+		float: none;
+		margin-right: 0;
+		margin-top: 53px;
+		text-align: center;
+	}
+}
+
+/* Smartphones (landscape) ----------- */
+@media only screen and (min-width : 321px) {
+	/** Header **/
+	.social-container {
+		margin: 0 auto;
+		width: 228px;
+	}
+	
+	.organization-title-container {
+		clear: both;
+		float: none;
+		margin: 97px auto 0;
+		text-align: center;
+		width: 100%;
+	}
+	
+	.organization-title-container img {
+		margin-right: 0;
+	}
+	
+	.logo-container {
+		clear: both;
+		float: none;
+		margin: 12px auto 0;
+		width: 30%;
+	}
+	
+	/** Home Page **/
+	.event-title {
+		font-size: 16px;
+	}
+
+	.responsive-slider {
+		padding: 20px;
+	}
+	
+	p.event-description {
+		text-align: center !important;
+		width: 100%;
+	}
+	
+	.register-button {
+		text-align: center;
+		width: 72%;
+	}
+	
+	.interpol-logo-container {
+		display: block;
+		width: 100%;
+	}
+	
+	.interpol-logo-container img {
+		display: block;
+		float: none;
+		margin: 0 auto;
+	}
+	
+	.dubai-customs-logo-container {
+		width: 100%;
+	}
+	
+	.dubai-customs-logo-container img {
+		display: block;
+		float: none;
+		margin: 20px auto 0;
+	}
+	
+	.responsive-slider .slider-control {
+		display: none;
+	}
+	
+	.sponsors {
+		clear: both;
+		float: none;
+	}
+	
+	/** Footer **/
+	.footer-links ul li {
+		padding: 0 8px;
+	}
+	
+	.footer-links ul li a {
+		font-size: 10px;
+	}
+	
+	.copyright {
+		display: block;
+		float: none;
+		margin-right: 0;
+		margin-top: 53px;
+		text-align: center;
+	}
+}
+
+/* Smartphones (portrait) ----------- */
+@media only screen and (max-width : 320px) {
+	/** Header **/
+	.social-container {
+		margin: 0 auto;
+		width: 228px;
+	}
+	
+	.organization-title-container {
+		clear: both;
+		float: none;
+		margin: 97px auto 0;
+		text-align: center;
+		width: 100%;
+	}
+	
+	.organization-title-container img {
+		margin-right: 0;
+	}
+	
+	.logo-container {
+		clear: both;
+		float: none;
+		margin: 12px auto 0;
+		width: 30%;
+	}
+	
+	/** Home Page **/
+	.event-title {
+		font-size: 16px;
+	}
+	
+	h3.event-description {
+		font-size: 12px;
+	}
+	
+	.responsive-slider {
+		padding: 15px;
+	}
+	
+	p.event-description {
+		text-align: center !important;
+	}
+	
+	.sponsors {
+		float: none;
+	}
+	
+	.dubai-customs-logo-container {
+		float: none;
+	}
+	
+	.dubai-customs-logo-container img {
+		max-width: 100% !important;
+	}
+	
+	.register-button {
+		text-align: center;
+		width: 72%;
+	}
+	
+	.interpol-logo-container {
+		display: block;
+		width: 100%;
+		float: none;
+	}
+	
+	.interpol-logo-container img {
+		display: block;
+		float: none;
+		margin: 0 auto;
+	}
+	
+	.dubai-customs-logo-container {
+		width: 100%;
+	}
+	
+	.dubai-customs-logo-container img {
+		display: block;
+		float: none;
+		margin: 20px auto 0;
+	}
+	
+	/** Footer **/
+	.footer-links ul li {
+		padding: 0 6px ;
+	}
+	
+	.footer-links ul li a {
+		font-size: 10px;
+	}
+	
+	.copyright {
+		display: block;
+		float: none;
+		margin-right: 0;
+		margin-top: 53px;
+		text-align: center;
+	}
+}
+
+/* Big smartphones (portrait) */
+@media only screen and (max-width : 640px) {
+	/** Header **/
+	.social-container {
+		margin: 0 auto;
+		width: 228px;
+	}
+	
+	.organization-title-container {
+		clear: both;
+		float: none;
+		margin: 97px auto 0;
+		text-align: center;
+		width: 100%;
+	}
+	
+	.organization-title-container img {
+		margin-right: 0;
+	}
+	
+	.logo-container {
+		clear: both;
+		float: none;
+		margin: 12px auto 0;
+		width: 30%;
+	}
+	
+	/** Home Page **/
+	.event-title {
+		font-size: 16px;
+	}
+
+	.responsive-slider {
+		padding: 20px;
+	}
+	
+	p.event-description {
+		text-align: center !important;
+		width: 100%;
+	}
+	
+	.register-button {
+		text-align: center;
+		width: 72%;
+	}
+	
+	.interpol-logo-container {
+		display: block;
+		width: 100%;
+	}
+	
+	.interpol-logo-container img {
+		display: block;
+		float: none;
+		margin: 0 auto;
+	}
+	
+	.dubai-customs-logo-container {
+		width: 100%;
+	}
+	
+	.dubai-customs-logo-container img {
+		display: block;
+		float: none;
+		margin: 20px auto 0;
+	}
+	
+	.responsive-slider .slider-control {
+		display: none;
+	}
+	
+	.sponsors {
+		clear: both;
+		float: none;
+	}
+}
+
+/* iPads (portrait and landscape) ----------- */
+@media only screen and (min-width : 768px) and (max-width : 1024px) {
+	/** Header **/
+	.social-container {
+		float: left;
+		width: 228px;
+	}
+	
+	.organization-title-container {
+		clear: both;
+		float: none;
+		margin: 97px auto 0;
+		text-align: center;
+		width: 100%;
+	}
+	
+	.organization-title-container {
+		clear: none;
+		float: left;
+		margin: 0 auto 0 71px;
+		text-align: center;
+		width: 42%;
+	}
+	
+	.logo-container {
+		clear: none;
+		float: right;
+		margin: 0 auto;
+		width: 11%;
+	}
+
+	/** Home Page **/
+	.event-title {
+		font-size: 18px;
+	}
+
+	h3.event-description {
+		font-size: 14px;
+	}
+	
+	.register-button {
+		text-align: center;
+		width: 50%;
+	}
+	
+	.responsive-slider .slider-control {
+		display: block;
+	}
+	
+	.responsive-slider .slider-control.left {
+		left: 40px;
+		top: 278px;
+	}
+	
+	.responsive-slider .slider-control.right {
+		top: 278px;
+		right: 473px;
+	}
+	
+	/** Footer **/
+	.footer-links ul li {
+		padding: 0 11px ;
+	}
+	
+	.footer-links ul li a {
+		font-size: 12px;
+	}
+	
+	.copyright {
+		display: inline;
+		float: right;
+		margin-right: 0;
+		margin-top: 0;
+	}
+}
+
+/* iPads (landscape) ----------- */
+@media only screen and (min-width : 768px) and (max-width : 1024px) and (orientation : landscape) {
+	/** Header **/
+	.social-container {
+		float: left;
+		width: 228px;
+	}
+	
+	.organization-title-container {
+		clear: both;
+		float: none;
+		margin: 97px auto 0;
+		text-align: center;
+		width: 100%;
+	}
+	
+	.organization-title-container {
+		clear: none;
+		float: left;
+		margin: 0 auto 0 71px;
+		text-align: center;
+		width: 42%;
+	}
+	
+	.logo-container {
+		clear: none;
+		float: right;
+		margin: 0 auto;
+		width: 11%;
+	}
+	
+	/** Home Page **/
+	.responsive-slider .slider-control.left {
+		left: 40px;
+		top: 379px;
+	}
+	
+	.responsive-slider .slider-control.right {
+		top: 379px;
+		right: 668px;
+	}
+	
+	p.event-description {
+		float: left !important;
+		text-align: left !important;
+		width: auto;
+	}
+	
+	.interpol-logo-container {
+		float: left !important;
+		margin-left: 84px;
+		width: auto;
+	}
+
+	.dubai-customs-logo-container {
+		float: right;
+		width: 45%;
+	}
+
+	.interpol-logo-container img {
+		float: right;
+		width: 55%;
+	}
+
+	.dubai-customs-logo-container img {
+		float: right;
+		width: 70%;
+	}
+	
+	.sponsors {
+		clear: none;
+		float: right;
+		width: 52%;
+	}
+	
+	.sponsors p.event-description {
+		margin-left: 103px;
+		text-align: center !important;
+		width: 100%;
+	}
+	
+	.register-button {
+		text-align: center;
+		width: 36%;
+	}
+	
+	.sponsors p.event-description {
+		margin-left: 113px;
+		width: 89%;
+	}
+	
+	.responsive-slider .slider-control {
+		display: none;
+	}
+	
+	/** Footer **/
+	.copyright {
+		display: inline;
+		float: right;
+		margin-right: 0;
+		margin-top: 0;
+	}
+}
+
+/* iPads (portrait) ----------- */
+@media only screen and (min-width : 768px) and (max-width : 1024px) and (orientation : portrait) {
+	/** Header **/
+	.social-container {
+		float: left;
+		width: 228px;
+	}
+	
+	.organization-title-container {
+		clear: both;
+		float: none;
+		margin: 97px auto 0;
+		text-align: center;
+		width: 100%;
+	}
+	
+	.organization-title-container {
+		clear: none;
+		float: left;
+		margin: 0 auto 0 71px;
+		text-align: center;
+		width: 42%;
+	}
+	
+	.logo-container {
+		clear: none;
+		float: right;
+		margin: 0 auto;
+		width: 11%;
+	}
+	
+	/** Home Page **/
+	.responsive-slider .slider-control.left {
+		left: 40px;
+		top: 379px;
+	}
+	
+	.responsive-slider .slider-control.right {
+		top: 379px;
+		right: 668px;
+	}
+	
+	p.event-description {
+		float: left !important;
+		text-align: left !important;
+		width: auto;
+	}
+	
+	.interpol-logo-container {
+		float: left !important;
+		margin-left: 84px;
+		width: auto;
+	}
+
+	.dubai-customs-logo-container {
+		float: right;
+		width: 45%;
+	}
+
+	.interpol-logo-container img {
+		float: right;
+		width: 55%;
+	}
+
+	.dubai-customs-logo-container img {
+		float: right;
+		width: 70%;
+	}
+	
+	.sponsors {
+		clear: none;
+		float: right;
+		width: 52%;
+	}
+	
+	.sponsors p.event-description {
+		margin-left: 103px;
+		text-align: center !important;
+		width: 100%;
+	}
+	
+	.register-button {
+		text-align: center;
+		width: 36%;
+	}
+	
+	.sponsors p.event-description {
+		margin-left: 113px;
+		width: 89%;
+	}
+	
+	/** Footer **/
+	.copyright {
+		display: inline;
+		float: right;
+		margin-right: 0;
+		margin-top: 0;
+	}
+}
+
+@media screen and (min-width: 600px) and (max-width: 960px), (min-device-width: 600px) and (max-device-width: 960px) and (orientation : landscape) {
+	/** Header **/
+	.social-container {
+		float: left;
+		width: 228px;
+	}
+	
+	.organization-title-container {
+		clear: both;
+		float: none;
+		margin: 97px auto 0;
+		text-align: center;
+		width: 100%;
+	}
+	
+	.organization-title-container {
+		clear: none;
+		float: left;
+		margin: 0 auto 0 33px;
+		text-align: center;
+		width: 42%;
+	}
+	
+	.logo-container {
+		clear: none;
+		float: right;
+		margin: 0 auto;
+		width: 11%;
+	}
+	
+	/** Home Page **/
+	.responsive-slider .slider-control.left {
+		left: 40px;
+		top: 280px;
+	}
+	
+	.responsive-slider .slider-control.right {
+		right: 478px;
+		top: 280px;
+	}
+	
+	.event-title {
+		font-size: 16px;
+	}
+
+	.responsive-slider {
+		padding: 20px;
+	}
+	
+	p.event-description {
+		text-align: center !important;
+		width: 100%;
+	}
+	
+	.register-button {
+		text-align: center;
+		width: 72%;
+	}
+	
+	.interpol-logo-container {
+		clear: both;
+		display: block;
+		float: none !important;
+		margin: 0;
+		width: auto;
+	}
+	
+	.interpol-logo-container img {
+		display: block;
+		float: none;
+		margin: 0 auto;
+		width: 25%;
+	}
+	
+	.dubai-customs-logo-container {
+		clear: both;
+		float: none;
+		width: auto;
+	}
+	
+	.dubai-customs-logo-container img {
+		display: block;
+		float: none;
+		margin: 20px auto 0;
+		max-width: 49% !important;
+		width: 49%;
+	}
+	
+	.sponsors {
+		clear: both;
+		float: none;
+		width: 100%;
+	}
+	
+	.sponsors p.event-description {
+		margin-left: 0;
+		width: 100%;
+	}
+	
+	/** Footer **/
+	.footer-links ul li {
+		padding: 0 8px;
+	}
+	
+	.footer-links ul li a {
+		font-size: 10px;
+	}
+	
+	.copyright {
+		display: inline;
+		float: right;
+		margin-right: 0;
+		margin-top: 0;
+		text-align: right;
+	}
+}
+
+@media screen and (max-width: 768px), (min-width: 768px) and (max-width: 1024px) and (orientation : portrait) {
+	/** Home Page **/
+	.responsive-slider .slider-control.left {
+		left: 40px;
+		top: 280px;
+	}
+	
+	.responsive-slider .slider-control.right {
+		right: 478px;
+		top: 280px;
+	}
+	
+	.event-title {
+		font-size: 16px;
+	}
+
+	.responsive-slider {
+		padding: 20px;
+	}
+	
+	p.event-description {
+		text-align: center !important;
+		width: 100%;
+	}
+	
+	.register-button {
+		text-align: center;
+		width: 72%;
+	}
+	
+	.interpol-logo-container {
+		display: block;
+		width: 100%;
+	}
+	
+	.interpol-logo-container img {
+		display: block;
+		float: none;
+		margin: 0 auto;
+	}
+	
+	.dubai-customs-logo-container {
+		width: 100%;
+	}
+	
+	.dubai-customs-logo-container img {
+		display: block;
+		float: none;
+		margin: 20px auto 0;
+	}
+	
+	.sponsors {
+		clear: both;
+		float: none;
+	}
+	
+	/** Footer **/
+	.copyright {
+		display: inline;
+		float: right;
+		margin-right: 0;
+	}
+}
+
+/* Desktops and laptops ----------- */
+@media only screen  and (min-width : 1224px) {
+	/** Header **/
+	.social-container {
+		float: left;
+		width: 228px;
+	}
+	
+	.organization-title-container {
+		clear: both;
+		float: none;
+		margin: 97px auto 0;
+		text-align: center;
+		width: 100%;
+	}
+	
+	.organization-title-container {
+		clear: none;
+		float: left;
+		margin: 0 auto 0 242px;
+		text-align: center;
+		width: 38%;
+	}
+	
+	.logo-container {
+		clear: none;
+		float: right;
+		margin: 0 auto;
+		width: 9%;
+	}
+	
+	/** Home Page **/
+	.event-title {
+		font-size: 23px;
+	}
+
+	h3.event-description {
+		font-size: 14px;
+	}
+
+	.responsive-slider {
+		padding: 50px;
+	}
+	
+	p.event-description {
+		float: left !important;
+		text-align: left !important;
+		width: auto;
+	}
+	
+	.interpol-logo-container {
+		float: left !important;
+		margin-left: 139px;
+		width: auto;
+	}
+
+	.dubai-customs-logo-container {
+		float: right;
+		width: auto;
+	}
+
+	.interpol-logo-container img {
+		float: right;
+		width: 55%;
+	}
+
+	.dubai-customs-logo-container img {
+		float: right;
+		width: 70%;
+	}
+	
+	.sponsors {
+		clear: none;
+		float: right;
+		width: 54%;
+	}
+	
+	.sponsors p.event-description {
+		margin-left: 103px;
+		text-align: center !important;
+		width: 100%;
+	}
+	
+	.register-button {
+		text-align: center;
+		width: 32%;
+	}
+	
+	.responsive-slider .slider-control {
+		display: block;
+	}
+	
+	/** Footer **/
+	.footer-links ul li {
+		border-right: 1px solid #cecece;
+		float: left;
+		padding: 0 25px;
+	}
+	
+	.footer-links ul li a {
+		font-size: 12px;
+	}
+
+	.copyright {
+		float: right;
+		font-family: "Century Gothic Regular";
+		font-size: 12px;
+		margin-right: 10px;
+		margin-top: 0;
+	}
+}
+
+/* Large screens ----------- */
+@media only screen  and (min-width : 1824px) {
+	/** Header **/
+	.social-container {
+		float: left;
+		width: 228px;
+	}
+	
+	.organization-title-container {
+		clear: both;
+		float: none;
+		margin: 97px auto 0;
+		text-align: center;
+		width: 100%;
+	}
+	
+	.organization-title-container {
+		clear: none;
+		float: left;
+		margin: 0 auto 0 242px;
+		text-align: center;
+		width: 38%;
+	}
+	
+	.logo-container {
+		clear: none;
+		float: right;
+		margin: 0 auto;
+		width: 9%;
+	}
+	
+	/** Home Page **/
+	.event-title {
+		font-size: 23px;
+	}
+
+	h3.event-description {
+		font-size: 14px;
+	}
+
+	.responsive-slider {
+		padding: 50px;
+	}
+	
+	p.event-description {
+		float: left !important;
+		text-align: left !important;
+		width: auto;
+	}
+	
+	.interpol-logo-container {
+		float: left !important;
+		margin-left: 139px;
+		width: auto;
+	}
+
+	.dubai-customs-logo-container {
+		float: right;
+		width: auto;
+	}
+
+	.interpol-logo-container img {
+		float: right;
+		width: 55%;
+	}
+
+	.dubai-customs-logo-container img {
+		float: right;
+		width: 70%;
+	}
+	
+	.sponsors {
+		clear: none;
+		float: right;
+		width: 54%;
+	}
+	
+	.sponsors p.event-description {
+		margin-left: 103px;
+		text-align: center !important;
+		width: 100%;
+	}
+	
+	.register-button {
+		text-align: center;
+		width: 32%;
+	}
+	
+	.responsive-slider .slider-control {
+		display: block;
+	}
+	
+	/** Footer **/
+	.footer-links ul li {
+		border-right: 1px solid #cecece;
+		float: left;
+		padding: 0 25px;
+	}
+	
+	.footer-links ul li a {
+		font-size: 12px;
+	}
+
+	.copyright {
+		float: right;
+		font-family: "Century Gothic Regular";
+		font-size: 12px;
+		margin-right: 10px;
+		margin-top: 0;
+	}
+}
